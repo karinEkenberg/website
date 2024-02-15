@@ -38,3 +38,15 @@ footer {
 footer p {
     font-size: 15px;
 }
+
+.buttons {
+    border-color: white;
+    color: rgb(43, 14, 28);
+    font-style:italic;
+    font-weight: bold;
+    border-radius: 15px;
+    width: 20%;
+    margin-top: 5%;
+    height: 40px;
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}

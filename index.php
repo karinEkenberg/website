@@ -14,6 +14,9 @@
         echo "<div class='message'> Welcome to my first PHP project! <br>";
         echo "<div class='message'> It is a great day to learn PHP!";
     ?>
+    <br>
+    <button class="buttons">Click me!</button><br>
+    <button class="buttons">Press me too!</button><br>
     <footer>
         <p>Created by: Karin Ekenberg</p>
     </footer>
